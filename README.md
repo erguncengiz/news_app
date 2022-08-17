@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+A new Flutter project made with BLoc and MVVM architecture.
 
 ## Getting Started
 
