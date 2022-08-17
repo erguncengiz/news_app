@@ -47,7 +47,7 @@ class _TextStyles {
 }
 
 class _API {
-  String apiKey = "e4a638184ec64001a1e8249209287b3c";
+  String apiKey = "b9e730c069284b1a9fd1c2049418ea70";
   String baseUrl = "https://newsapi.org/v2/";
 }
 
